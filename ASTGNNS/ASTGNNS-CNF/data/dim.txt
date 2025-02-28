@@ -1,0 +1,3 @@
+node: 793
+node attr: 12
+edge attr: 155
